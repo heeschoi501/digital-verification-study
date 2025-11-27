@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1764221447" />
+    <testcase name="test_scanner_random" classname="test_scanner" file="/home/karsearin501/scanner_project/test_scanner.py" lineno="7" time="0.020958423614501953" sim_time_ns="10000.0" ratio_time="477135.1216071713" />
+  </testsuite>
+</testsuites>
