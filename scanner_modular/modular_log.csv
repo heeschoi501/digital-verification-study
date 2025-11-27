@@ -1,0 +1,11 @@
+Time_ns,Phase_Code,Phase_Name,Laser_Active,Env_Status,Event_Msg
+40.0,0,IDLE,0,0,상태 변경: -1 -> 0 (IDLE)
+50.0,1,LOAD,0,0,상태 변경: 0 -> 1 (LOAD)
+150.0,2,SETUP,0,1,상태 변경: 1 -> 2 (SETUP)
+200.0,3,ALIGN,0,1,상태 변경: 2 -> 3 (ALIGN)
+260.0,4,FOCUS,0,1,상태 변경: 3 -> 4 (FOCUS)
+340.0,5,RUN(Expose),0,1,상태 변경: 4 -> 5 (RUN(Expose))
+350.0,6,FINISH,1,1,상태 변경: 5 -> 6 (FINISH)
+430.0,7,FAULT,0,1,상태 변경: 6 -> 7 (FAULT)
+490.0,0,IDLE,0,1,상태 변경: 7 -> 0 (IDLE)
+550.0,0,IDLE,0,1,✅ 공정 사이클 완료

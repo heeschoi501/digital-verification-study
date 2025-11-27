@@ -1,0 +1,8 @@
+
+    read_verilog submodules.v
+    read_verilog main_controller.v
+    read_verilog scanner_top.v
+    hierarchy -check -top scanner_top
+    proc; opt; memory; opt
+    show -format dot -prefix scanner_schematic -colors 2 -width -stretch
+    

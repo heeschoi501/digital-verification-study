@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1764230657" />
+    <testcase name="test_modular_system" classname="test_modular" file="/home/karsearin501/scanner_modular/test_modular.py" lineno="24" time="0.003386974334716797" sim_time_ns="550.0" ratio_time="162386.82246937914" />
+  </testsuite>
+</testsuites>
