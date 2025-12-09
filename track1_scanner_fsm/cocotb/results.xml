@@ -1,0 +1,9 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1765269431" />
+    <testcase name="test_normal_scan_cycle" classname="test_scanner_top" file="/home/karsearin501/projects/scanner_fsm_project/cocotb/test_scanner_top.py" lineno="35" time="0.043103933334350586" sim_time_ns="40070.0" ratio_time="929613.5387270384" />
+    <testcase name="test_interlock_error" classname="test_scanner_top" file="/home/karsearin501/projects/scanner_fsm_project/cocotb/test_scanner_top.py" lineno="72" time="0.0008559226989746094" sim_time_ns="390.0" ratio_time="455648.62395543174" />
+    <testcase name="test_lot_25_wafers" classname="test_scanner_top" file="/home/karsearin501/projects/scanner_fsm_project/cocotb/test_scanner_top.py" lineno="110" time="0.5487163066864014" sim_time_ns="500070.0" ratio_time="911345.2505536648" />
+    <testcase name="generate_scanner_lot_log" classname="test_scanner_top" file="/home/karsearin501/projects/scanner_fsm_project/cocotb/test_scanner_top.py" lineno="158" time="0.5383844375610352" sim_time_ns="500070.0" ratio_time="928834.4259455093" />
+  </testsuite>
+</testsuites>
